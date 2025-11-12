@@ -1,5 +1,7 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo!
+![Gif do gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 
+📫email:
 <!--
 **ThiagoDionisio05/ThiagoDionisio05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
