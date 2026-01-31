@@ -23,32 +23,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 About This Profile
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoDionisio05&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDionisio05&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="140"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoDionisio05&theme=github-dark&hide_border=true"
-    height="140"
-  />
+  Projects focused on web development, system fundamentals and practical problem solving.<br/>
+  Always learning and building with clean, organized code.
 </p>
 
 ---
 
 <p align="center">
-  ✨ <em>Building and learning with technology.</em>
+  ✨ <em>Consistency beats intensity.</em>
 </p>
+
+
 
