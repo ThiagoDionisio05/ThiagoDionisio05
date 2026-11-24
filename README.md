@@ -39,20 +39,6 @@
 
 ---
 
-### 🤖 Automação de processos: Série SEI
-
-Automação de ponta a ponta para o **SEI (Sistema Eletrônico de Informações)**, usada em produção num lote de cerca de **720 processos**.
-Login sempre manual, nenhum dado pessoal no código, execução retomável e verificação de cada etapa.
-
-| Projeto | O que faz | Stack |
-|---|---|---|
-| [**Parte 1: Criação de processos**](https://github.com/ThiagoDionisio05/sei-automacao) | Cria processos a partir de uma planilha, atribui, relaciona e anexa os documentos padrão | Python, Playwright, pandas |
-| [**Parte 2: Documentos pessoais**](https://github.com/ThiagoDionisio05/sei-automacao-pt2) | Anexa em lote 5 documentos por pessoa, com validação antes da execução e rastreio por documento | Python, Playwright, pandas |
-| [**Parte 3: Documentos nativos**](https://github.com/ThiagoDionisio05/sei-automacao-pt3) | Escreve documentos no editor do SEI e preenche os campos com dados da planilha | Python, Playwright, JavaScript |
-| [**Download de PDFs**](https://github.com/ThiagoDionisio05/sei-download-pdfs) | Localiza processos por número ou protocolo, confere o tipo e baixa o PDF completo de cada um em lote | Python, Playwright, openpyxl |
-
----
-
 ### 🌐 Projetos para clientes
 
 | Projeto | Cliente | Destaques | Site |
